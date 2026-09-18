@@ -73,7 +73,7 @@ University of Helsinki students have access to Kubernetes based OKD-cluster for 
 to Open University/Mooc students. 
 To use the cluster please apply by sending an email with your student id/username to `grp-okd-cs-admins@helsinki.fi`.
 Access is always granted until end of next May, making the maximum access time one year. Access is granted as 
-self-provisioner permission, but more on that and usage of the cluster in the [guide](examplee.org).
+self-provisioner permission, but more on that and usage of the cluster in the [guide]([examplee.org](https://version.helsinki.fi/toska-k8s/okd-tikettimylly/-/wikis/Cluster-Usage)).
 
 
 ## Finishing the application and grading
