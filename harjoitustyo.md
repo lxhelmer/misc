@@ -70,7 +70,7 @@ Repositoriosi on käyntikorttisi, eritoten alan työnhaussa. Rekrytoijat eivät 
 
 Helsingin yliopiston tutkinto-opiskelijoiden käytössä on yliopiston kubernetes pohjainen OKD-klusteri. Klusteri EI ole avoimen yliopiston opiskelijoiden käytössä. Projektin klusterille lisäämistä varten tulee pyytää tarvittavat käyttöoikeudet lähettämällä sähköpostia
 osoitteeseen `grp-okd-cs-admins@helsinki.fi`. Sähköpostissa tulisi olla yliopiston käyttäjätunnuksesi. Käyttöoikeus myönnetään aina seuraavaan toukokuun loppuun, maksimissaan siis vuodeksi. Käyttöoikeus tarkalleen annetaan provisiointi-oikeutena, tästä ja klusterin käytöstä 
-tarkemmin [ohjeessa](example.org). 
+tarkemmin [ohjeessa](https://version.helsinki.fi/toska-k8s/okd-tikettimylly/-/wikis/Klusterin-K%C3%A4ytt%C3%B6). 
 
 
 
